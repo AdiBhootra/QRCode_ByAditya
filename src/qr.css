@@ -1,0 +1,52 @@
+.first-back{
+    background-color: lightblue;
+    width: 1440px;
+    height: 800px;
+    padding-top: 150px;
+}
+.first-back .sec-back{
+    background-color: #ffffff;
+    width: 322px;
+    height: 497px;
+    margin-left: 520px;
+    border-radius: 17px;
+}
+.first-back .image{
+    height: 287px;
+    width: 288px;
+    padding-top: 14px;
+    padding-left: 16px;
+    border-top-left-radius: 26px;
+    border-bottom-left-radius: 26px;
+    border-bottom-right-radius: 15px;
+    border-top-right-radius: 27px;
+}
+.first-back .para{
+    font-size: 21px;
+    font-weight: bolder;
+    @font-face {
+        font-family:  [Outfit];
+        src: url('https://fonts.google.com/specimen/Outfit');
+      }
+    font-family:outfit;
+    color: #222222;
+    margin-left: auto;
+    margin-right: auto;
+    width: 78%;
+    text-align: center;
+}
+
+.first-back .para-1{
+    color: grey;
+    font-size: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    text-align: center;
+    @font-face {
+        font-family:  [Outfit];
+        src: url('https://fonts.google.com/specimen/Outfit');
+      }
+    font-family:outfit;
+}
+
